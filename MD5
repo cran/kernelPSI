@@ -1,6 +1,6 @@
-9b0fb3021e49638276e12be6acef9b7f *DESCRIPTION
+6fbc217296daf978d77b4c7ed3be68a0 *DESCRIPTION
 d6d345a27a075758e26b112fe5ffb22e *NAMESPACE
-6d867c867addadc36dcbf9a8b6e5714d *NEWS.md
+005eaf383f5b61f2538e3755b6068406 *NEWS.md
 5ddeda25f80d4fb1166119732f30b935 *R/RcppExports.R
 2cb08bd8a59214c2853f87396f68e2df *R/likelihood.R
 5fa2acfa3a3c2a368878a5851820f2d1 *R/skat.R
@@ -9,7 +9,7 @@ af2324a465506391d5099178231f746c *README.md
 1070a6266b54f5156061c98072f8d20f *build/vignette.rds
 17a37b658e18defae54ee0c3a5da0f74 *inst/doc/kernelPSI.R
 5b42c7739eb888f3a0029cba8ec72450 *inst/doc/kernelPSI.Rmd
-6ac601e080ad38fcef2aea385d6453ae *inst/doc/kernelPSI.html
+23e4b0e7f4b615feb79e71b7a937fcb7 *inst/doc/kernelPSI.html
 107ab63c1259f6f753ed8869855de2ee *man/FOHSIC.Rd
 e6f7fc849eb301320eeaa5f9b4ff1d0b *man/HSIC.Rd
 c8dc7df667cf1abff11e24f702a4481f *man/SKAT.Rd
@@ -28,7 +28,7 @@ a6bfb298d174a86e28f97c8250b46e7d *man/ridgeLR.Rd
 ee90eb09f7a3cf1f53a5f86f2b0dcc95 *src/RcppExports.cpp
 73fc2a606ab47f8a27d42a0bb2fdd0b8 *src/ada.cpp
 e299fb41d194f08f8c773fb82c5b66f3 *src/forward.cpp
-8656d6d6e8e0a45a0fa80a8c7553bf11 *src/hsic.cpp
+b9dac1db1a1db0b316596358ad452c2a *src/hsic.cpp
 6e8eab799b7bdfe6275397a30b344856 *src/hsic.h
 efd915c6657d8b669a2c5b8001965484 *src/sampleH.cpp
 833f726975cc15dce397ce1e0e6e79ba *tests/testthat.R

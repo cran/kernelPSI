@@ -1,7 +1,7 @@
 Package: kernelPSI
 Title: Post-Selection Inference for Nonlinear Variable Selection
-Version: 1.0.0
-Date: 2019-06-20
+Version: 1.1.0
+Date: 2019-09-08
 Authors@R: c(person("Lotfi", "Slim", email = "lotfi.slim@mines-paristech.fr", role = c("aut", "cre")),
   person("Clément", "Chatelain", email = "clement.chatelain@sanofi.com", role = "ctb"),
   person("Chloé-Agathe", "Azencott", email = "chloe-agathe.azencott@mines-paristech.fr", role ="ctb"),
@@ -17,18 +17,18 @@ Description: Different post-selection inference strategies for kernel
 URL: http://proceedings.mlr.press/v97/slim19a.html
 Depends: R (>= 3.5.0)
 License: GPL (>= 2)
-Imports: Rcpp (>= 1.0.1), CompQuadForm, tmg, pracma, kernlab, lmtest
+Imports: Rcpp (>= 1.0.1), CompQuadForm, pracma, kernlab, lmtest
 Suggests: bindata, knitr, rmarkdown, MASS, testthat
 Encoding: UTF-8
 LinkingTo: Rcpp, RcppArmadillo
 VignetteBuilder: knitr
 RoxygenNote: 6.1.1
 NeedsCompilation: yes
-Packaged: 2019-06-22 21:28:24 UTC; lotfislim
+Packaged: 2019-09-08 16:37:12 UTC; lotfislim
 Author: Lotfi Slim [aut, cre],
   Clément Chatelain [ctb],
   Chloé-Agathe Azencott [ctb],
   Jean-Philippe Vert [ctb]
 Maintainer: Lotfi Slim <lotfi.slim@mines-paristech.fr>
 Repository: CRAN
-Date/Publication: 2019-06-24 13:20:03 UTC
+Date/Publication: 2019-09-08 17:00:02 UTC
